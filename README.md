@@ -1,2 +1,2 @@
-# parent_module
-For testing git submodule 
+# Parent Repository
+The submodule lives inside src/main_app/clientApp
