@@ -1,0 +1,3 @@
+[submodule "src/main_app/clientApp"]
+	path = src/main_app/clientApp
+	url = https://github.com/ChangAlanCL/child_module.git
